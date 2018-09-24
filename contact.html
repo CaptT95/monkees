@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="/assets/css/style.css" type="text/css" />
+    <meta name="viewport" content="width=device-width initial-scale-1">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="col-xs-12 brand">Monkees</div>
+            <!--Navbar-->
+            <div class="row nav">
+                <div class="col-md-1"></div>
+                <a href="index.html" class="col-xs-12 col-sm-6 col-md-2 nav-item nav-home"><i class="fa fa-home"></i> Home</a>
+                <a href="#" class="col-xs-6 col-sm-6 col-md-2 nav-item nav-about"><i class="fa fa-id-card"></i> About Us</a>
+                <a href="#" class="col-xs-6 col-sm-4 col-md-2 nav-item nav-catalogue"><i class="fa fa-book"></i> Catalogue</a>
+                <a href="#" class="col-xs-6 col-sm-4 col-md-2 nav-item nav-functions"><i class="glyphicon glyphicon-music"></i> Functions</a>
+                <a href="#" class="col-xs-6 col-sm-4 col-md-2 nav-item nav-contact"><i class="fa fa-comments"></i> Contact Us</a>
+            </div>
+        </header>
+
+        <!--Contact section-->
+        <section class="container-fluid">
+            <div class="row">
+                <div>
+                    <h3 class="contact-heading uppercase text-center">Got a question?</h3>
+                    <h5 class="uppercase text-center">Type in your query below.</h5>
+                    <hr class="contact-hr"></hr>
+                    <p class="contact-p">If you are looking to book us for an upcoming function, mention the following and we will reply with projected rates for your specifics:</p>
+                    <ul>
+                        <li class="contact-li">Type of function</li>
+                        <li class="contact-li">Dates</li>
+                        <li class="contact-li">Venue Location</li>
+                        <li class="contact-li">Song requests</li>
+                    </ul>
+                </div>
+                <div class="center-form">
+                    <form>
+                        <input type="text" name="name" class="form-control" id="fullname" placeholder="Name" required/>
+                        <input type="text" name="emailaddress" class="form-control" id="emailaddress" placeholder="Email" required/>
+                        <textarea rows="5" name="projectsummary" class="form-control" id="projetsummary" placeholder="Function Request" required></textarea>
+                        <button type="submit" class="btn btn-color center-block">Send Request</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <!--Footer-->
+        <footer class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-4 copyright">Copyright <i class="glyphicon glyphicon-copyright-mark"></i> 2018 The Monkees. All rights reserved.</div>
+                <div class="col-xs-12 col-sm-12 col-md-4 contact">
+                    <h5 class="uppercase">Contact Us</h5>
+                    <hr class="hidden-xs hidden-sm index-hr"></hr>
+                    <p>Get in touch for rates and dates here: <a href="#"><i class="fa fa-comments"></a></i>
+                    </p>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 social">
+                    <h5 class="uppercase">Social Media Links</h5>
+                    <hr class="hidden-xs hidden-sm index-hr"></hr>
+                    <ul class="list-inline social-links">
+                        <li><a target="_blank" href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a target="_blank" href="#"><i class="fa fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>

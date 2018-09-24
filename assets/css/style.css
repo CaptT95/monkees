@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR|Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,200,300,400,500,600,700|Pacifico:100,200,300,400,500,600,700');
 
 /*------------------------------------------Colours*/
 
@@ -40,7 +40,8 @@ body {
     text-decoration: none;
     color: #ffffff;
     font-size: 20px;
-    font-family: "Pacifico"
+    font-family: "Pacifico";
+    font-weight: 500;
 }
 
 .nav-item:hover{
@@ -48,7 +49,7 @@ body {
     color: #d2d2d2;
     transition: 0.3s all ease-in-out;
     text-decoration: none;
-    font-family: "Pacifico"
+    font-family: "Pacifico";
 }
 
 .uppercase {
@@ -110,6 +111,51 @@ video{
 
 
 
+/*------------------------------------------Contact*/
+.contact-heading{
+    font-family: "Pacifico";
+    font-size: 24px;
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: 20px;
+}
+
+.contact-hr{
+    color: #fafafa;
+    background-color: #fafafa;
+    border: none;
+    height: 1px;
+    width: 50%;
+}
+
+.contact-p{
+    padding-left: 10px;
+}
+
+.contact-li{
+    padding-left: 10px;
+}
+
+.center-form{
+    margin-top: 20px;
+}
+
+.btn{
+    color: #d2d2d2;
+    background-color: #444444;
+    font-family: "Pacifico", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 15px;
+}
+
+.btn:hover{
+    background-color: #d2d2d2;
+    color: #444444;
+    transition: 0.3s all ease-in-out;
+}
+
+
 
 /*------------------------------------------Footer*/
 footer{
@@ -165,7 +211,7 @@ footer .contact i:hover{
     background-color: #444444;
 }
 
-hr {
+.index-hr {
     border: none;
     height: 1px;
     color: #333;
@@ -192,8 +238,11 @@ hr {
     .container{
         padding-top: 150px;
     }
-    .copyright, .contact, .social{
+    .contact, .social{
         padding-top: 20px;
+    }
+    .copyright{
+        padding-top: 25px;
     }
 }
 
