@@ -111,6 +111,14 @@ video{
 
 
 
+/*------------------------------------------About*/
+
+.section-column img{
+    width: 100%;
+    height: auto;
+}
+
+
 /*------------------------------------------Contact*/
 .contact-heading{
     font-family: "Pacifico";
