@@ -3,7 +3,7 @@
 /*------------------------------------------Colours*/
 
 body {
-    background-image: url(/assets/images/background.jpg);
+    background-image: url(assets/images/background.jpg);
     height: 100%;
     width: 100%;
 }
@@ -59,7 +59,7 @@ body {
 /*------------------------------------------Header*/
 
 .container {
-    background-image: url(/assets/images/monkees.jpg);
+    background-image: url(assets/images/monkees.jpg);
     background-size: cover;
     padding-top: 50px;
 }
