@@ -7,6 +7,7 @@ Copyright Glyphicon: https://glyphicons.bootstrapcheatsheets.com/#
 Video autoplay: https://www.w3schools.com/tags/att_video_autoplay.asp
 Video autosize: https://www.w3schools.com/css/css_rwd_videos.asp
 Contact form: Resume project
+Footer to bottom of page: https://matthewjamestaylor.com/bottom-footer
 
 Ideas:
 
