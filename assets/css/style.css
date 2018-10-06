@@ -9,8 +9,6 @@ html {
 body {
     background-image: url(../images/background.jpg);
     min-height: 100%;
-    padding-bottom: 250px;
-    margin-bottom: 5px;
 }
 
 .container {
@@ -357,15 +355,6 @@ footer .contact i:hover {
     font-size: 18px;
 }
 
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 250px;
-    text-align: center;
-}
-
 .social-links {
     padding-bottom: 5px;
 }
@@ -402,9 +391,6 @@ footer .contact i:hover {
 /*------------------------------------------Media Queries*/
 
 @media(min-width:768px) {
-    body{
-        padding-bottom: 120px;
-    }
     .logo {
         display: none;
     }
@@ -433,19 +419,13 @@ footer .contact i:hover {
     .function-heading {
         padding-top: 5px;
     }
-    .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 120px;
-    text-align: center;
-    }
+
 }
 
 @media(min-width:992px) {
     body{
         padding-bottom: 120px;
+        margin-bottom: 5px;
     }
     .contact,
     .social {
@@ -458,8 +438,13 @@ footer .contact i:hover {
     .section-column img {
         height: 190px;
     }
-    .footer{
-        height: 120px;
+    .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 120px;
+    text-align: center;
     }
 
 }
