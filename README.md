@@ -184,7 +184,7 @@ All scenarios for this user group have been tested through “The Monkees User S
 
  
 
-##### Responsiveness of site: 
+### Responsiveness of site: 
 
 To aid in creating a responsive site, I used Bootstrap’s Grid System. Through the creating of each page, I would check the various break points to see if the column sizes worked with the design on various device screen sizes, using Chrome Dev Tools, my own iPhone 8 and an iPad Pro (10.5). 
 
