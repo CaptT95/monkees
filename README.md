@@ -1,5 +1,7 @@
 # The Monkees 
 
+Deployed website: https://marksheehan72.github.io/monkees/
+
 **The brief for this project is as follows:** 
 
 >CREATE A WEBSITE FOR A BAND 
