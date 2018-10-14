@@ -36,21 +36,29 @@ The "Functions" page also acts as a quick stop for information on what The Monke
 
 # UX 
 
-This website has three primary parties involved – The Monkees as the business, established fans and new users looking for a wedding/Christmas party band. 
+This website has three primary parties involved – The Monkees as the business, established fans and new users looking for a wedding/Christmas party band. The user stories for these parties are as follows:
 
-**The Monkees:** As the band, we want to use this website to promote our availability to perform at weddings and Christmas parties, as well as promote their music. As such, the initial page gives a quick intro into us with an embedded video of a performance by us. Through this, we are giving an impression of what we are about, and the quality of our musicianship. The “About” section then give more details on us as musicians, focussing on the instruments we play. This demonstrates what we have to offer in relation to instruments for their performances. The “Catalogue” page then gives some more examples of songs we have released, giving users more of an understanding of our style of music and repertoire. The “Functions” page provides further details into the services we offer in relation to the two types of events we are focussing on promoting ourselves for (namely Weddings and Christmas Parties), providing a sample set list/brochure to provide further details on exactly what we offer for these events. There is also a “Book Us” button at the bottom of this section, as a call to action to book us. The final “Contact Us” page provides a form for booking, which is our primary goal. There are three ways of getting to this page, with two of these on each page – The button on the nav at the top of each page, the contact button in the footer, and the “Book Us” button in the “Functions” page. As such, users have many opportunities to arrive at this page. 
+**The Monkees:** 
+* We want to promote our music.
+* We want to give information on the band.
+* We want to give information on our ability to perform at functions (i.e. Weddings and Christmas Parties), including set lists and brochures.
+* We want users to be able to book us for these functions through the site.
 
+**Established fans:** 
+* We want to be able to listen to the band's music.
+* We want to be able to access the band's social media sites.
+* We want to be able to access information on the band's new venture playing for various functions.
+* We want to be able to book the band/request a cost for booking them..
  
 
-**Established fans:** As an established fan, I want to be able to access material by The Monkees, as well as keep up with their social media. As such, this website gives samples of their music through the introductory video on the home page and the audio clips on the catalogue page. It also allows me to access more information on the members of the band in the about page, with links to their Wikipedia pages. As I am a fan of the band, I am delighted to see they are now providing music for functions such as weddings and Christmas parties, as seen on their functions page. As such, I would recommend friends looking for a good band to look up this website, which has a useful booking form they could utilise to find prices/dates/set lists/etc. 
-
+**New Users:**  
+* We want a quick introduction of the band.
+* We want to be able to listen to samples of their music.
+* We want to find information on the band's ability to play for various functions, as well as sample set lists/information brochures for what they offer for these functions.
+* We want to be able to book the band/request a cost for booking them.
  
 
-**New Users:**  As a new user, with a particular interest in booking The Monkees for a function such as a wedding or Christmas party, I am looking to see what the band can offer. As such, I like the quick introduction I see on their home page (blurb and video) – this gives me a quick sense of the band before I look into them in more detail by navigating the rest of the website. I can get a better sense of their style of music from the audio clips on the catalogue page. My main focus is the functions page, which I am delighted to see has a sample set list for weddings and a sample brochure for Christmas parties. These give good detail about what they can offer me if I do decide to book them for such a function. I also see it is quite easy for me to book them and send any inquiries I may have through their contact/booking form, with several buttons linking me to this form. 
-
- 
-
-Please see the [*Wireframes*](https://github.com/MarkSheehan72/monkees/tree/master/Wireframes) directory in the project for wireframes of each page of the project. 
+Please see the [*Wireframes*](https://github.com/MarkSheehan72/monkees/tree/master/wireframes) directory in the project for wireframes of each page of the project. 
 
 # Features 
 
@@ -236,6 +244,6 @@ I created a repository on GitHub, linking my project on Cloud9 to it. I committe
 
 # Acknowledgements 
 
-* I received some inspiration for this project from solomonj2k12/The-Official-Monkees (shared with me from my tutor Moosa Hassan).  
+* I received some inspiration for this project from solomonj2k12/The-Official-Monkees.
 
  
